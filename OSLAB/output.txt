@@ -1,4 +1,4 @@
 Enter name: Enter age: 
 Displaying information
-Name: ram
-Age: 11
+Name: ravi kumar
+Age: 12
