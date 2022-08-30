@@ -1,0 +1,4 @@
+Enter name: Enter age: 
+Displaying information
+Name: BOND
+Age: 11
