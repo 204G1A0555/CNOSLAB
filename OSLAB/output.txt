@@ -1,4 +1,4 @@
 Enter name: Enter age: 
 Displaying information
-Name: BOND
+Name: ram
 Age: 11
