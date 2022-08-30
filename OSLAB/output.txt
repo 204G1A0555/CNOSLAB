@@ -1,4 +1,4 @@
 Enter name: Enter age: 
 Displaying information
-Name: nav navvu
-Age: 67
+Name: okay boss
+Age: 333
