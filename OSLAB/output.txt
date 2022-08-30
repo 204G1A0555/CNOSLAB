@@ -1,4 +1,4 @@
 Enter name: Enter age: 
 Displaying information
-Name: ravi kumar
-Age: 12
+Name: nav navvu
+Age: 67
