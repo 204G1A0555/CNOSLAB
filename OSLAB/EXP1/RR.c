@@ -6,11 +6,11 @@
 */
 //SOURCE code
 #include<stdio.h>
-main()
+void main()
 {
 int i,j,n,bu[10],wa[10],tat[10],t,ct[10],max;
 float awt=0,att=0,temp=0;
-clrscr();
+//clrscr();
 printf("Enter the no of processes -- ");
 scanf("%d",&n);
 for(i=0;i<n;i++)
@@ -47,4 +47,5 @@ for(i=0;i<n;i++)
 printf("\t%d \t %d \t\t %d \t\t %d \n",i+1,ct[i],wa[i],tat[i]);
 printf("\nThe Average Turnaround time is -- %f",att/n);
 printf("\nThe Average Waiting time is -- %f ",awt/n);
-getch();}
+//getch();
+}
