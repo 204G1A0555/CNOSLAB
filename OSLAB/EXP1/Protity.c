@@ -41,8 +41,7 @@ tat[i] = tat[i-1] + bt[i];
 wtavg = wtavg + wt[i];
 tatavg = tatavg + tat[i];
 }
-printf("\nPROCESS\t\tPRIORITY\tBURST TIME\tWAITING TIME\tTURNAROUND
-TIME");
+printf("\nPROCESS\t\tPRIORITY\tBURST TIME\tWAITING TIME\tTURNAROUNDTIME");
 for(i=0;i<n;i++)
 printf("\n%d \t\t %d \t\t %d \t\t %d \t\t %d ",p[i],pri[i],bt[i],wt[i],tat[i]);
 
