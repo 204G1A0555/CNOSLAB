@@ -1,0 +1,45 @@
+Enter the total memory available (in Bytes) -- 3
+Enter the block size (in Bytes) -- 12
+
+Enter the number of processes -- 33
+Enter memory required for process 1 (in Bytes)-- 22
+Enter memory required for process 2 (in Bytes)-- 55
+Enter memory required for process 3 (in Bytes)-- 22
+Enter memory required for process 4 (in Bytes)-- 1
+Enter memory required for process 5 (in Bytes)-- 2
+Enter memory required for process 6 (in Bytes)-- 5
+Enter memory required for process 7 (in Bytes)-- 5
+Enter memory required for process 8 (in Bytes)-- 2
+Enter memory required for process 9 (in Bytes)-- 5
+Enter memory required for process 10 (in Bytes)-- 2
+Enter memory required for process 11 (in Bytes)-- 21
+Enter memory required for process 12 (in Bytes)-- 63
+Enter memory required for process 13 (in Bytes)-- 5255
+Enter memory required for process 14 (in Bytes)-- 23
+Enter memory required for process 15 (in Bytes)-- 21
+Enter memory required for process 16 (in Bytes)-- 2
+Enter memory required for process 17 (in Bytes)-- 2
+Enter memory required for process 18 (in Bytes)-- 1
+Enter memory required for process 19 (in Bytes)-- 6
+Enter memory required for process 20 (in Bytes)-- 3
+Enter memory required for process 21 (in Bytes)-- 2
+Enter memory required for process 22 (in Bytes)-- 1
+Enter memory required for process 23 (in Bytes)-- 2
+Enter memory required for process 24 (in Bytes)-- 5
+Enter memory required for process 25 (in Bytes)-- 2
+Enter memory required for process 26 (in Bytes)-- 25
+Enter memory required for process 27 (in Bytes)-- 2
+Enter memory required for process 28 (in Bytes)-- 1
+Enter memory required for process 29 (in Bytes)-- 2
+Enter memory required for process 30 (in Bytes)-- 2
+Enter memory required for process 31 (in Bytes)-- 2
+Enter memory required for process 32 (in Bytes)-- 21
+Enter memory required for process 33 (in Bytes)-- 2
+
+No. of Blocks available in memory--0
+
+PROCESS MEMORYREQUIRED  ALLOCATED       INTERNAL FRAGMENTATION
+Memory is Full, Remaining Processes cannot be accomodated
+
+Total Internal Fragmentation is 0
+*** stack smashing detected ***: terminated
