@@ -1,0 +1,23 @@
+Script started on 2022-11-26 22:02:37+05:30 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="118" LINES="30"]
+]0;root@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5root@MASTANVALISANJAMALA:/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5# girt [K[K[Kt commin[Kt -m "Mastan Vali Sanjamala v[Kcreated MVT.c fiel [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kle "
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../Exp4/DeadLockAvoidance.c[m
+	[31mdeleted:    ../MVT.c[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mmvtscript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;root@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5root@MASTANVALISANJAMALA:/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5# git commit -m "Mastan Vali Sanjamala created MVT.c file"[A]0;root@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5root@MASTANVALISANJAMALA:/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5# [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "Mastan Vali Sanjamala created MVT.c file"[A]0;root@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5root@MASTANVALISANJAMALA:/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5# [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "Mastan Vali Sanjamala created MVT.c file"[A]0;root@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5root@MASTANVALISANJAMALA:/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5# [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnam[Kno MVT.c
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;53H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 4.8                                            MVT.c                                                       [1;117H(B[m[29d(B[0;7m^G(B[m Get Help     (B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut Text     (B[0;7m^J(B[m Justify[81G(B[0;7m^C(B[m Cur Pos[97G(B[0;7mM-U(B[m Undo[30d(B[0;7m^X(B[m Exit[30;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste Text   (B[0;7m^T(B[m To Spell     (B[0;7m^_(B[m Go To Line   (B[0;7mM-E(B[m Redo[28d[2d(B[0;1m[34m/* Name Of the Candidate: S. Mastan Vali[3d   Roll No:  204G1A0555[4d   Title of the Experiment:program to stimulate MEMORY MANAGEMENT WITH FIXED PARTITIONING TECHNIQUE(MFT)[5d   Date of Creation: 26-11-2022[6d   Date of Execution: 26-11-2022[7d*/[2d[39m(B[m[?12l[?25h[?25l[1;109H(B[0;7mModified(B[m7[2;27r8[2dM[1;30r[3;1H[?12l[?25h[?25l[A[?12l[?25h[?25l[3d[?1
