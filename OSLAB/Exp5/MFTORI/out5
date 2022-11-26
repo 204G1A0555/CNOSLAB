@@ -1,0 +1,44 @@
+Enter the total memory available (in Bytes)-- 8888
+
+Enter memory required for process 1 (in Bytes) -- 4
+
+Memory is allocated for Process 1
+Do you want to continue(y/n) -- y
+
+Enter memory required for process 2 (in Bytes) -- 123
+
+Memory is allocated for Process 2
+Do you want to continue(y/n) -- y
+
+Enter memory required for process 3 (in Bytes) -- 55
+
+Memory is allocated for Process 3
+Do you want to continue(y/n) -- y
+
+Enter memory required for process 4 (in Bytes) -- 985
+
+Memory is allocated for Process 4
+Do you want to continue(y/n) -- y
+
+Enter memory required for process 5 (in Bytes) -- 12
+
+Memory is allocated for Process 5
+Do you want to continue(y/n) -- y
+
+Enter memory required for process 6 (in Bytes) -- 789
+
+Memory is allocated for Process 6
+Do you want to continue(y/n) -- n
+
+
+Total Memory Available -- 8888
+
+        PROCESS          MEMORY ALLOCATED
+        1               4
+        2               123
+        3               55
+        4               985
+        5               12
+        6               789
+
+Total Memory Allocated is 1968
