@@ -9,7 +9,7 @@
 //source code
 #include<stdio.h>
 //#include<conio.h>
-main()
+int main()
 {
 int ms, bs, nob, ef,n,
 mp[10],tif=0; int i,p=0;
