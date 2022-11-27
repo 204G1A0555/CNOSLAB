@@ -872,4 +872,159 @@ File No File Size       Block No        Block Size      Fragment
 ******************************************************************
 By MASTAN VALI SANJAMALA^Z
 [12]+  Stopped                 cat >> out2
-]0;
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git add .
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git cvo[K[Kommit m[K-m"Second set of outputs"
+[master f5c1651] Second set of outputs
+ 2 files changed, 103 insertions(+), 1 deletion(-)
+ create mode 100644 OSLAB/Exp6/out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git commit -m"Second set of outputs"add .[Kcat >> out2[K3
+Enter the number of blocks:3
+Enter the number of files:5
+
+Enter the size of the blocks:-
+Block 1:9
+Block 2:6
+Block 3:5
+Enter the size of the files :-
+File 1:3
+File 2:2
+File 3:9
+File 4:6
+File 5:2
+
+File No File Size       Block No        Block Size      Fragment
+1               3               3               5               2
+2               2               2               6               4
+3               9               1               9               0 
+
+^Z
+[13]+  Stopped                 cat >> out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cat >> out3
+******************************************************************
+By MASTAN VALI SANJAMALA^Z
+[14]+  Stopped                 cat >> out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out3
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 20 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out3                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[mEnter the number of blocks:3[3dEnter the number of files:5[5dEnter the size of the blocks:-[6dBlock 1:9[7dBlock 2:6[8dBlock 3:5[9dEnter the size of the files :-[10dFile 1:3[11dFile 2:2[12dFile 3:9[13dFile 4:6[14dFile 5:2[16dFile No File Size[25GBlock No[16;41HBlock Size[57GFragment[17d1[17;17H3[17;33H3[17;49H5[17;65H2[18d2[18;17H2[18;33H2[18;49H6[18;65H4[19d3[19;17H9[19;33H1[19;49H9[19;65H0[21d******************************************************************[2d[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[15]+  Stopped                 nano out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out3[K2
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 17 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out2                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[mEnter the number of blocks:4[3dEnter the number of files:2[5dEnter the size of the blocks:-[6dBlock 1:99[7dBlock 2:55[8dBlock 3:22[9dBlock 4:231[10dEnter the size of the files :-[11dFile 1:132[12dFile 2:45[14dFile No File Size[25GBlock No[14;41HBlock Size[57GFragment[15d1[15;17H132[15;33H4[15;49H231[15;65H99[16d2[16;17H45[16;33H2[16;49H55[16;65H10[18d******************************************************************[2d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[16]+  Stopped                 nano out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cat out1>out1>out1
+By MASTAN VALI SANJAMALA^[[1;2D       
+^Z
+[17]+  Stopped                 cat >> out1
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ NANO ou[K[Kout1
+NANO: command not found
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ NANO out1[C[1P out1[1P out1[1P out1[1P out1N out1A out1N out1O out1
+NANO: command not found
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out1
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 21 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out1                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[3d[39;49m(B[mEnter the number of blocks:5[4dEnter the number of files:1[6dEnter the size of the blocks:-[7dBlock 1:99[8dBlock 2:6[9dBlock 3:2[10dBlock 4:222[11dBlock 5:22233[12dEnter the size of the files :-[13dFile 1:221[15dFile No File Size[25GBlock No[15;41HBlock Size[57GFragment[16d1[16;17H221[16;33H4[16;49H222[16;65H1[20d******************************************************************[21dBy MASTAN VALI SANJAMALA[22dBy MASTAN VALI SANJAMALA[2d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[10d[?12l[?25h[?25l[11d[?12l[?25h[?25l[12d[?12l[?25h[?25l[13d[?12l[?25h[?25l[14d[?12l[?25h[?25l[15d[?12l[?25h[?25l[16d[?12l[?25h[?25l[17d[?12l[?25h[?25l[18d[?12l[?25h[?25l[19d[?12l[?25h[?25l[20d[?12l[?25h[?25l[28d[K[21d[?12l[?25h[?25l[22d[?12l[?25h[?25l[23d[?12l[?25h[?25l[22;25H[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[22;24H [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[?12l[?25h[?25l [?12l[?25h[?25l[K[?12l[?25h[?25l[21;25H[?12l[?25h[?25l[28;54H(B[0;7m[ Writing... ](B[m[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 20 lines ](B[m[21;25H[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out1NANO[C[C[C[C[Ccat >>out1[1Pnano out232cat >>out1[K2
+By MASTAN VALI SANJAMALA
+^Z
+[18]+  Stopped                 cat >> out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cat >>out2[1Pnano out1[K2
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28d(B[0;7mFile out2 is being edited by mastanvalisanjam (with nano 4.8, PID 225); open anyway?                                    [29;1H Y(B[m Yes[30d(B[0;7m N(B[m No[30;17H(B[0;7m^C(B[m Cancel[28;85H[?12l[?25h[?25l[28;53H[1K (B[0;7m[ Reading... ](B[m[K[28;52H(B[0;7m[ Read 18 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out2                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[mEnter the number of blocks:4[3dEnter the number of files:2[5dEnter the size of the blocks:-[6dBlock 1:99[7dBlock 2:55[8dBlock 3:22[9dBlock 4:231[10dEnter the size of the files :-[11dFile 1:132[12dFile 2:45[14dFile No File Size[25GBlock No[14;41HBlock Size[57GFragment[15d1[15;17H132[15;33H4[15;49H231[15;65H99[16d2[16;17H45[16;33H2[16;49H55[16;65H10[18d******************************************************************[19dBy MASTAN VALI SANJAMALA[2d[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[19]+  Stopped                 nano out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out2cat >>out2[K3
+By MASTAN VALI SANJAMALA
+^X  ^Z
+[20]+  Stopped                 cat >> out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cat out4>out4>out4
+Enter the number of blocks:3
+Enter the number of files:1
+
+Enter the size of the blocks:-
+Block 1:2
+Block 2:3
+Block 3:100
+Enter the size of the files :-
+File 1:9632
+
+File No File Size       Block No        Block Size      Fragment
+******************************************************************
+By MASTAN VALI SANJAMALA^Z
+[ ^[[A    
+^Z
+[21]+  Stopped                 cat >> out4
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out4
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 14 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out4                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m\Enter the number of blocks:3[3dEnter the number of files:1[5dEnter the size of the blocks:-[6dBlock 1:2[7dBlock 2:3[8dBlock 3:100[9dEnter the size of the files :-[10dFile 1:9632[12dFile No File Size[25GBlock No[12;41HBlock Size[57GFragment[13d******************************************************************[14dBy MASTAN VALI SANJAMALA^Z[2d[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[22]+  Stopped                 nano out4
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out4cat >>out4[K5
+Enter the number of blocks:3
+Enter the number of files:2
+
+Enter the size of the blocks:-
+Block 1:5
+Block 2:2
+Block 3:7
+Enter the size of the files :-
+File 1:1
+File 2:4
+
+File No File Size       Block No        Block Size      Fragment
+1               1               2               2               1
+2               4               1               5               1
+******************************************************************
+By MASTAN VALI SANJAMALA
+
+^Z
+[23]+  Stopped                 cat >> out5
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano out5
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 17 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out5                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[mEnter the number of blocks:3[3dEnter the number of files:2[5dEnter the size of the blocks:-[6dBlock 1:5[7dBlock 2:2[8dBlock 3:7[9dEnter the size of the files :-[10dFile 1:1[11dFile 2:4[13dFile No File Size[25GBlock No[13;41HBlock Size[57GFragment[14d1[14;17H1[14;33H2[14;49H2[14;65H1[15d2[15;17H4[15;33H1[15;49H5[15;65H1[16d******************************************************************[17dBy MASTAN VALI SANJAMALA[2d[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[24]+  Stopped                 nano out5
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git mv gfg.py code/gfg.py[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kot[Kut1 BestfitOU[K[K[K[K[K[K[K[K[K[K
+usage: git mv [<options>] <source>... <destination>
+
+    -v, --verbose         be verbose
+    -n, --dry-run         dry run
+    -f, --force           force move/rename even if target exists
+    -k                    skip move/rename errors
+
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls
+[0m[01;32mBestfit.c[0m  [34;42mBestfitout[0m  [01;32mWorstfit.c[0m  [34;42mWorstfitout[0m  [01;32ma.out[0m  [01;32mdate[0m  [01;32mout1[0m  [01;32mout2[0m  [01;32mout3[0m  [01;32mout4[0m  [01;32mout5[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ lsgit mv out1 Bestfot[K[Kotpit[K[K[K[K[Kitout
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ C[KLS
+LS: command not found
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls
+[0m[01;32mBestfit.c[0m  [34;42mBestfitout[0m  [01;32mWorstfit.c[0m  [34;42mWorstfitout[0m  [01;32ma.out[0m  [01;32mdate[0m  [01;32mout2[0m  [01;32mout3[0m  [01;32mout4[0m  [01;32mout5[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ lsLSgit mv out1 Bestfitout[1P Bestfitout2 Bestfitout
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls Bestfitout
+[0m[01;32mout1[0m  [01;32mout2[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls Bestfitout[9@git mv out2[C[C[C[C[C[C[C[C[C[C[C[1P Bestfitout3 Bestfitout
+fatal: not under version control, source=OSLAB/Exp6/out3, destination=OSLAB/Exp6/Bestfitout/out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git mv out3 Bestfitout[1P Bestfitout4 Bestfitout
+fatal: not under version control, source=OSLAB/Exp6/out4, destination=OSLAB/Exp6/Bestfitout/out4
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git mv out4 Bestfitout3[C[C[C[C[C[C[C[C[C[C[C[9Pls[C[C[C[C[C[C[C[C[C[C[C
+[0m[01;32mout1[0m  [01;32mout2[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls Bestfitout[9@git mv out4[C[C[C[C[C[C[C[C[C[C[C
+fatal: not under version control, source=OSLAB/Exp6/out4, destination=OSLAB/Exp6/Bestfitout/out4
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git mv out4 Bestfitout[9Pls[C[C[C[C[C[C[C[C[C[C[C[9@git mv out4[C[C[C[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C[C[C[C
+fatal: not under version control, source=OSLAB/Exp6/out3, destination=OSLAB/Exp6/Bestfitout/out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git mv out3 Bestfitout4[C[C[C[C[C[C[C[C[C[C[C[9Pls[C[C[C[C[C[C[C[C[C[C[C[9@git mv out4[C[C[C[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C[C[C[C[9Pls[C[C[C[C[C[C[C[C[C[C[C[9@git mv out2[C[C[C[C[C[C[C[C[C[C[C
+fatal: bad source, source=OSLAB/Exp6/out2, destination=OSLAB/Exp6/Bestfitout/out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls
+[0m[01;32mBestfit.c[0m  [34;42mBestfitout[0m  [01;32mWorstfit.c[0m  [34;42mWorstfitout[0m  [01;32ma.out[0m  [01;32mdate[0m  [01;32mout3[0m  [01;32mout4[0m  [01;32mout5[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ lsgit mv out2 Bestfitout/out3[1P Bestfitout/out33 Bestfitout/out3
+fatal: not under version control, source=OSLAB/Exp6/out3, destination=OSLAB/Exp6/Bestfitout/out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cd ..
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB[00m$ cd Exp6
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls
+[0m[01;32mBestfit.c[0m  [34;42mBestfitout[0m  [01;32mWorstfit.c[0m  [34;42mWorstfitout[0m  [01;32ma.out[0m  [01;32mdate[0m  [01;32mout3[0m  [01;32mout4[0m  [01;32mout5[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano Firstfit.c
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           Firstfit.c                                                     [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified[28d(B[m[K[1;119H[2d(B[0;1m[34m/* Name Of the Candidate: S. Mastan Vali[3d   Roll No:  204G1A0555[4d   Title of the Experiment: stimulating Dining-philosophers problem[5d   Date of Creation: 17-10-2022[6d   Date of Execution: 17-10-2022[7d*/[39m(B[m[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[6d[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[1P[?12l[?25h[?25l(B[0;1m[34m27-10-2022[6;24H[39m(B[m[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l(B[0;1m[34m-2022[39m(B[m[K[27G[?12l[?25h[?25l(B[0;1m[34m11-2022[28G[39m(B[m[?12l[?25h[?25l[A[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[C[?12l[?25h[?25l(B[0;1m[34m-2022[39m(B[m[K[26G[?12l[?25h[?25l(B[0;1m[34m11-2022[27G[39m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1P[?12l[?25h[?25l(B[0;1m[34m27-11-2022[5;23H[39m(B[m[?12l[?25h[?25l[A[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l(B[0;7ms(B[m[?12l[?25h[?25l(B[0;7mt(B[m[?12l[?25h[?25l(B[0;7mi(B[m[?12l[?25h[?25l(B[0;7mm(B[m[?12l[?25h[?25l(B[0;7mu(B[m[?12l[?25h[?25l(B[0;7ml(B[m[?12l[?25h[?25l(B[0;7ma(B[m[?12l[?25h[?25l(B[0;7mt(B[m[?12l[?25h[?25l(B[0;7mi(B[m[?12l[?25h[?25l(B[0;7mn(B[m[?12l[?25h[?25l(B[0;7mg(B[m[?12l[?25h[?25l(B[0;7m (B[m[?12l[?25h[?25l(B[0;7mD(B[m[?12l[?25h[?25l(B[0;7mi(B[m[?12l[?25h[?25l(B[0;7mn(B[m[?12l[?25h[?25l(B[0;7mi(B[m[?12l[?25h[?25l(B[0;7mn(B[m[?12l[?25h[?25l(B[0;7mg(B[m[?12l[?25h[?25l(B[0;7m-(B[m[?12l[?25h[?25l(B[0;7mp(B[m[?12l[?25h[?25l(B[0;7mh(B[m[?12l[?25h[?25l(B[0;7mi(B[m[?12l[?25h[?25l(B[0;7ml(B[m[?12l[?25h[?25l(B[0;7mo(B[m[?12l[?25h[?25l(B[0;7ms(B[m[?12l[?25h[?25l(B[0;7mo(B[m[?12l[?25h[?25l(B[0;7mp(B[m[?12l[?25h[?25l(B[0;7mh(B[m[?12l[?25h[?25l(B[0;7me(B[m[?12l[?25h[?25l(B[0;7mr(B[m[?12l[?25h[?25l(B[0;7ms(B[m[?12l[?25h[?25l(B[0;7m (B[m[?12l[?25h[?25l(B[0;7mp(B[m[?12l[?25h[?25l(B[0;7mr(B[m[?12l[?25h[?25l(B[0;7mo(B[m[?12l[?25h[?25l(B[0;7mb(B[m[?12l[?25h[?25l(B[0;7ml(B[m[?12l[?25h[?25l(B[0;7me(B[m[?12l[?25h[?25l(B[0;7mm(B[m[?12l[?25h[?25l[5;28r[28;1H
+[1;30r[4;68H(B[0;1m[34m   Date of Creation: 27-11-2022[4;68H[39m(B[m[?12l[?25h[?25l[4;29H(B[0;1m[34mstimulating Dining-philosophers proble[39m(B[m[1P[?12l[?25h[?25l7[5;28r8[5dM[1;30r[4;67H[K[5d(B[0;1m[34m   Date of Creation: 27-11-2022[39m(B[m[?12l[?25h[?25l[A[?12l[?25h[?25l[4;67H[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[42m [49m(B[m[K[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[42m [49m(B[m[K[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l(B[0;1m[34m\[39m(B[m[?12l[?25h[?25l [?12l[?25h[?25l[42m [49m(B[m[K[?12l[?25h[?25l(B[0;1m[34m To stimulate the following contiguous memory allocation techniques.[39m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?
