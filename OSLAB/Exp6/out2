@@ -1,0 +1,17 @@
+Enter the number of blocks:4
+Enter the number of files:2
+
+Enter the size of the blocks:-
+Block 1:99
+Block 2:55
+Block 3:22
+Block 4:231
+Enter the size of the files :-
+File 1:132
+File 2:45
+
+File No File Size       Block No        Block Size      Fragment
+1               132             4               231             99
+2               45              2               55              10
+
+******************************************************************
