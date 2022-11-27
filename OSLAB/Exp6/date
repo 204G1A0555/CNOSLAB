@@ -598,4 +598,62 @@ compilation terminated.
 [01m[KBestfit.c:49:8:[m[K [01;35m[Kwarning: [m[Kmissing terminating " character
    49 | printf([01;35m[K"[m[K\nFile No\tFile Size \tBlock No\tBlock
       |        [01;35m[K^[m[K
-[01m[KBestfit.c:49:8:[m[K [01;31m[Kerror: [m[Kmissing
+[01m[KBestfit.c:49:8:[m[K [01;31m[Kerror: [m[Kmissing terminating " character
+   49 | printf([01;31m[K"\nFile No\tFile Size \tBlock No\tBlock[m[K
+      |        [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[KBestfit.c:50:5:[m[K [01;31m[Kerror: [m[Kstray ‘[01m[K\[m[K’ in program
+   50 | Size[01;31m[K\[m[KtFragment");
+      |     [01;31m[K^[m[K
+[01m[KBestfit.c:50:1:[m[K [01;31m[Kerror: [m[K‘[01m[KSize[m[K’ undeclared (first use in this function)
+   50 | [01;31m[KSize[m[K\tFragment");
+      | [01;31m[K^~~~[m[K
+[01m[KBestfit.c:50:1:[m[K [01;36m[Knote: [m[Keach undeclared identifier is reported only once for each function it appears in
+[01m[KBestfit.c:50:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[KtFragment[m[K’
+   50 | Size[01;31m[K\[m[K[32m[KtFragment[m[K");
+      |     [01;31m[K^[m[K[32m[K~~~~~~~~~[m[K
+      |     [32m[K)[m[K
+[01m[KBestfit.c:50:15:[m[K [01;35m[Kwarning: [m[Kmissing terminating " character
+   50 | Size\tFragment[01;35m[K"[m[K);
+      |               [01;35m[K^[m[K
+[01m[KBestfit.c:50:15:[m[K [01;31m[Kerror: [m[Kmissing terminating " character
+   50 | Size\tFragment[01;31m[K");[m[K
+      |               [01;31m[K^~~[m[K 
+[01m[KBestfit.c:52:70:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+   52 | printf("\n%d\t\t%d\t\t%d\t\t%d\t\t%d",i,f[i],ff[i],b[ff[i]],frag[i]);
+      |                                                                      [01;31m[K^[m[K
+      |                                                                      [32m[K;[m[K
+   53 | //getch();
+   54 | [32m[K}[m[K
+      | [32m[K~[m[K                                                                     
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ gcc Bestfit.cit commit -m"First set of errors "add .[Knano  Bestfit.c[2Pgcc[C[C[C[C[C[C[C[C[C[C[2@nano [C[C[C[C[C[C[C[C[C[C[6Pgit add .nano  Bestfit.c[2Pgcc[C[C[C[C[C[C[C[C[C[CDestfit.cnano  Bestfit.c[2Pgcc Destfit.cnano  Bestfit.c[2Pgcc Destfit.cBestfit.c[2@nano [C[C[C[C[C[C[C[C[C[C[6Pgit add .commit -m"First set of errors "add .[K
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git add .cc Bestfit.cit commit -m"First set of errors "[C[1P[1P[1P[1P[1P[1@S[1@e[1@c[1@o[1@n[1@d[1@n[1P
+[master c632c05] Second set of errors
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git commit -m"Second set of errors "add .[Kcc Bestfit.c[4Pit add .cc Bestfit.c[4Pit add .cc Bestfit.cit commit -m"First set of errors "add .[Knano  Bestfit.c
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 54 lines ](B[m[H(B[0;7m  GNU nano 4.8                                           Bestfit.c                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d(B[0;1m[34m/* Name Of the Candidate: S. Mastan Vali[3d   Roll No:  204G1A0555[4d   Title of the Experiment: To stimulate the best fit contiguous memory allocation techniques.[5d   Date of Creation: 27-11-2022[6d   Date of Execution: 27-11-2022[7d*/[8d//source code[9d[36m#include[39m(B[m<stdio.h>[10d(B[0;1m[34m//#include<conio.h>[11d[36m#define[39m(B[m max 25[12d[32mvoid[39m(B[m main()[13d{[14d[32mint[39m(B[m frag[max],b[max],f[max],i,j,nb,nf,temp,lowest=10000;[15d[32mstatic[39m(B[m [32mint[39m(B[m bf[max],ff[max];[16d(B[0;1m[34m//clrscr();[17d[39m(B[mprintf((B[0;1m[33m"\nEnter the number of blocks:"[39m(B[m);[18dscanf((B[0;1m[33m"%d"[39m(B[m,&nb);[19dprintf((B[0;1m[33m"Enter the number of files:"[39m(B[m);[20dscanf((B[0;1m[33m"%d"[39m(B[m,&nf);[21dprintf((B[0;1m[33m"\nEnter the size of the blocks:-\n"[39m(B[m);[22d(B[0;1m[33mfor[39m(B[m(i=1;i<=nb;i++)[23dprintf((B[0;1m[33m"Block %d:"[39m(B[m,i);[24dscanf((B[0;1m[33m"%d"[39m(B[m,&b[i]);[25dprintf((B[0;1m[33m"Enter the size of the files :-\n"[39m(B[m);[26d(B[0;1m[33mfor[39m(B[m(i=1;i<=nf;i++)[27d{[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[10d[?12l[?25h[?25l[11d[?12l[?25h[?25l[12d[?12l[?25h[?25l[13d[?12l[?25h[?25l[14d[?12l[?25h[?25l[15d[?12l[?25h[?25l[16d[?12l[?25h[?25l[17d[?12l[?25h[?25l[18d[?12l[?25h[?25l[19d[?12l[?25h[?25l[20d[?12l[?25h[?25l[21d[?12l[?25h[?25l[22d[?12l[?25h[?25l[23d[?12l[?25h[?25l[24d[?12l[?25h[?25l[25d[?12l[?25h[?25l[26d[?12l[?25h[?25l[27d[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hprintf((B[0;1m[33m"File %d:"[39m(B[m,i);[K[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hscanf((B[0;1m[33m"%d"[39m(B[m,&f[i]);[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H}[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H(B[0;1m[33mfor[39m(B[m(i=1;i<=nf;i++)[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H{[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H(B[0;1m[33mfor[39m(B[m(j=1;j<=nb;j++)[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H{[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H(B[0;1m[33mif[39m(B[m(bf[j]!=1)[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H{[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Htemp=b[j]-f[i];[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H(B[0;1m[33mif[39m(B[m(temp>=0)[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H(B[0;1m[33mif[39m(B[m(lowest>temp)[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H{[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hff[i]=j;[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hlowest=temp;[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H}[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H}}[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hfrag[i]=lowest;[42m [49m(B[m[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hbf[ff[i]]=1;[42m [49m(B[m[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hlowest=10000;[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H}[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hprintf("\nFile No\tFile Size \tBlock No\tBlock[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1HSize\tFragment");[42m [49m(B[m[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H(B[0;1m[33mfor[39m(B[m([32mint[39m(B[m i=1;i<=nf && ff[i]!=0;i++)[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hprintf((B[0;1m[33m"\n%d\t\t%d\t\t%d\t\t%d\t\t%d"[39m(B[m,i,f[i],ff[i],b[ff[i]],frag[i]);[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[1;111H(B
