@@ -10,4 +10,499 @@ Script started on 2022-11-27 12:57:59+05:30 [TERM="xterm-256color" TTY="/dev/tty
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
 ]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git commit -m "Mastanc [K\[K[K Vali Sanjamala added  souc[Krce code to Worstfit.c file"
 [master dcb6bd1] Mastan Vali Sanjamala added source code to Worstfit.c file
- 2 files ch
+ 2 files changed, 59 insertions(+)
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ls
+[0m[01;32mWorstfit.c[0m  [01;32mdate[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ gcc Worstfilr[K\t[K[K[Kt.c
+[01m[KWorstfit.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[KWorstfit.c:15:1:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K=[m[K’, ‘[01m[K,[m[K’, ‘[01m[K;[m[K’, ‘[01m[Kasm[m[K’ or ‘[01m[K__attribute__[m[K’ before ‘[01m[Kemp[m[K’
+   15 | [01;31m[Kemp[m[K; static int bf[max],ff[max];
+      | [01;31m[K^~~[m[K
+[01m[KWorstfit.c:41:1:[m[K [01;31m[Kerror: [m[K‘[01m[Ktemp[m[K’ undeclared (first use in this function)
+   41 | [01;31m[Ktemp[m[K=b[j]-f[i];
+      | [01;31m[K^~~~[m[K
+[01m[KWorstfit.c:41:1:[m[K [01;36m[Knote: [m[Keach undeclared identifier is reported only once for each function it appears in
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ gcc Worstfit.cls[Kgit commit -m "Mastan Vali Sanjamala added source code to Worstfit.c file"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ git commti[K[Kit =[K-[K-m" [K[K" The first set of errors"
+[master 378425a]  The first set of errors
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ no[Kano Worstfit.c
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 56 lines ](B[m[H(B[0;7m  GNU nano 4.8                                           Worstfit.c                                                     [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d(B[0;1m[34m/* Name Of the Candidate: S. Mastan Vali[3d   Roll No:  204G1A0555[4d   Title of the Experiment: To stimulate the Worst fit contiguous memory allocation techniques.[5d   Date of Creation: 27-11-2022[6d   Date of Execution: 27-11-2022[7d*/[8d//source code[9d[36m#include[39m(B[m<stdio.h>[10d(B[0;1m[34m//#include<conio.h>[11d[36m#define[39m(B[m max 25[12d[32mvoid[39m(B[m main()[13d{[14d[32mint[15d[39m(B[mfrag[max],b[max],f[max],i,j,nb,nf,t[16demp; [32mstatic[39m(B[m [32mint[39m(B[m bf[max],ff[max];[17d(B[0;1m[34m//clrscr();[18d[39m(B[mprintf((B[0;1m[33m"\n\tMemory Management Scheme - First Fit"[39m(B[m);[19dprintf((B[0;1m[33m"\nEnter the number of blocks:"[39m(B[m);[20dscanf((B[0;1m[33m"%d"[39m(B[m,&nb);[21dprintf((B[0;1m[33m"Enter the number of files:"[39m(B[m);[22dscanf((B[0;1m[33m"%d"[39m(B[m,&nf);[23dprintf((B[0;1m[33m"\nEnter the size of the blocks:-\n"[39m(B[m);[24d(B[0;1m[33mfor[39m(B[m(i=1;i<=nb;i++)[25d{[26dprintf((B[0;1m[33m"Block %d:"[39m(B[m,i);[27dscanf((B[0;1m[33m"%d"[39m(B[m,&b[i]);[2d[?12l[?25h[?25l[3d[?12l[?25h[?25l[4d[?12l[?25h[?25l[5d[?12l[?25h[?25l[6d[?12l[?25h[?25l[7d[?12l[?25h[?25l[8d[?12l[?25h[?25l[9d[?12l[?25h[?25l[10d[?12l[?25h[?25l[11d[?12l[?25h[?25l[12d[?12l[?25h[?25l[13d[?12l[?25h[?25l[14d[?12l[?25h[?25l[15d[?12l[?25h[?25l[16d[?12l[?25h[?25l[17d[?12l[?25h[?25l[A[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[16;27r[27;1H
+[1;30r[15;36Hemp; [32mstatic[39m(B[m [32mint[39m(B[m bf[max],ff[max];[27d}[15;36H[?12l[?25h[?25l[16;12H[?12l[?25h[?25l[17;36H[?12l[?25h[?25l[18d[?12l[?25h[?25l[A[?12l[?25h[?25l[16;12H[?12l[?25h[?25l[15;36H[?12l[?25h[?25le[?12l[?25h[?25lm[?12l[?25h[?25l[28d[K[15;39H[?12l[?25h[?25l;[?12l[?25h[?25l [?12l[?25h[?25l7[16;27r8[16dM[1;30r[15;40H[42m [49m(B[m[K[16d[32mstatic[39m(B[m [32mint[39m(B[m bf[max],ff[max];[?12l[?25h[?25l[17d[?12l[?25h[?25l[18d[?12l[?25h[?25l[19d[?12l[?25h[?25l[20d[?12l[?25h[?25l[21d[?12l[?25h[?25l[22d[?12l[?25h[?25l[23d[?12l[?25h[?25l[24d[?12l[?25h[?25l[25d[?12l[?25h[?25l[26d[?12l[?25h[?25l[27d[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H}[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hprintf((B[0;1m[33m"Enter the size of the files :-\n"[39m(B[m);[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H(B[0;1m[33mfor[39m(B[m(i=1;i<=nf;i++)[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1H{[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hprintf((B[0;1m[33m"File %d:"[39m(B[m,i);[?12l[?25h[?25l7[2;28r8[28d
+[1;30r[27;1Hscanf((B[0;1m[33m"%d"[39m(B[m,&f[i]);[?12l[?25h[?25l[28;54H(B[0;7m[ Writing... ](B[m[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 56 lines ](B[m[A[?12l[?25h[?25l[28d[J[30d[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ nano Worstfit.cgit commit -m" The first set of errors"add .[Kcc Worstfit.c
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ./a.out
+
+	Memory Management Scheme - First Fit
+Enter the number of blocks:3
+Enter the number of files:2
+
+Enter the size of the blocks:-
+Block 1:5
+Block 2:2
+Block 3:7
+Enter the size of the files :-
+File 1:1
+File 2:4
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		1		1		5		4
+2		4		3		7		3]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ./a.outgcc Worstfit.c[7P./a.out
+
+	Memory Management Scheme - First Fit
+Enter the number of blocks:6
+Enter the number of files:2
+
+Enter the size of the blocks:-
+Block 1:2
+Block 2:5
+Block 3:1
+Block 4:3
+Block 5:5
+Block 6:9
+Enter the size of the files :-
+File 1:5
+File 2:6
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		5		2		5		0
+2		6		6		9		3]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ./a.out
+
+	Memory Management Scheme - First Fit
+Enter the number of blocks:1
+Enter the number of files:1
+
+Enter the size of the blocks:-
+Block 1:22
+Enter the size of the files :-
+File 1:3
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		3		1		22		19]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ./a.out
+
+	Memory Management Scheme - First Fit
+Enter the number of blocks:1
+Enter the number of files:1
+
+Enter the size of the blocks:-
+Block 1:23
+Enter the size of the files :-
+File 1:23
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		23		1		23		0]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ./a.outgcc Worstfit.c[1@nano[C[C[C[C[C[C[C[C[C[C[C[1Pgcc[C[C[C[C[C[C[C[C[C[C[C[7P./a.out
+
+	Memory Management Scheme - First Fit
+Enter the number of blocks:5
+Enter the number of files:2
+
+Enter the size of the blocks:-
+Block 1:1
+Block 2:3
+Block 3:1
+Block 4:1
+Block 5:1
+Enter the size of the files :-
+File 1:3
+File 2:2
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		3		2		3		0
+2		2		0		2432		-1]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ./a.outgcc Worstfit.c[7P./a.out
+
+	Memory Management Scheme - First Fit
+Enter the number of blocks:5
+Enter the number of files:4
+
+Enter the size of the blocks:-
+Block 1:6
+Block 2:5
+Block 3:4
+Block 4:3
+Block 5:2
+Enter the size of the files :-
+File 1:2
+File 2:3
+File 3:1
+File 4:4
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		2		1		6		4
+2		3		2		5		2
+3		1		3		4		3
+4		4		0		2432		-2]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ ./a.out
+
+	Memory Management Scheme - First Fit
+Enter the number of blocks:3
+Enter the number of files:3
+
+Enter the size of the blocks:-
+Block 1:1
+Block 2:2
+Block 3:3
+Enter the size of the files :-
+File 1:3
+File 2:2
+File 3:1
+
+File_no:	File_size :	Block_no:	Block_size:	Fragement
+1		3		3		3		0
+2		2		2		2		0
+3		1		1		1		0]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ mkdir WorstFirt[K[K[K[KfitO[Kout
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cd Worstfitout
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ g[Kcat >> out1
+ Memory Management Scheme - First Fit
+Enter the number of blocks:3
+Enter the number of files:3
+
+Enter the size of the blocks:-
+Block 1:1
+Block 2:2
+Block 3:3
+Enter the size of the files :-
+File 1:3
+File 2:2
+File 3:1
+
+File_no:        File_size :     Block_no:       Block_size:     Fragement
+1               3               3               3               0
+2               2               2               2               0
+3               1               1               1               0^Z
+[1]+  Stopped                 cat >> out1
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ gti add.[K .
+
+Command 'gti' not found, did you mean:
+
+  command 'gt' from deb genometools (1.6.1+ds-2)
+  command 'gsi' from deb gambc (4.8.8-3.1)
+  command 'git' from deb git (1:2.25.1-1ubuntu3.6)
+  command 'gth' from deb genomethreader (1.7.3+dfsg-5)
+  command 'gtf' from deb xserver-xorg-core (2:1.20.13-1ubuntu1~20.04.4)
+  command 'gtv' from deb smpeg-gtv (0.4.5+cvs20030824-8build1)
+  command 'gt5' from deb gt5 (1.5.0~20111220+bzr29-3)
+  command 'ti' from deb ticgit (1.0.2.17-2.1)
+  command 'bti' from deb bti (034-4build1)
+  command 'gli' from deb ruby-gli (2.14.0-1)
+  command 'ghi' from deb ghi (1.2.0-1)
+  command 'gmi' from deb gmailieer (0.10-1)
+
+Try: sudo apt install <deb name>
+
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git add. .
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git ad[K[Kcommit " f[KFirst ser[Kt od[Kf erro rs a[Krec[Kt[Kctified and addde[K[Ked fit[Krst sse[K[Ket of executin[K[Kion resut[Klts"
+error: pathspec ' First set of errors rectified and added first set of execution results' did not match any file(s) known to git
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit " First set of errors rectified and added first set of execution results"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C " First set of erro[1@r[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[C-" First set of err[1@o[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cm" First set of er[1@r[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[master a404710]  First set of errors rectified and added first set of execution results
+ 1 file changed, 16 insertions(+)
+ create mode 100644 OSLAB/Exp6/Worstfitout/out1
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit  -m" First set of errors rectified and added first set of execution results"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C" First set of error[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P.ti add .cat >> out1d Worstfitout[3Pat >> out1[K2
+  Memory Management Scheme - First Fit
+Enter the number of blocks:3
+Enter the number of files:3
+
+Enter the size of the blocks:-
+Block 1:1
+Block 2:2
+Block 3:3
+Enter the size of the files :-
+File 1:3
+File 2:2
+File 3:1
+
+File_no:        File_size :     Block_no:       Block_size:     Fragement
+1               3               3               3               0
+2               2               2               2               0
+3               1               1               1               0^Z
+[2]+  Stopped                 cat >> out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ cat >> out2git commit  -m" First set of errors rectified and added first set of execution results"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C" First set of error[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -m"Second set of ex ecution results"
+[master 2711e54] Second set of execution results
+ 1 file changed, 16 insertions(+)
+ create mode 100644 OSLAB/Exp6/Worstfitout/out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -m"Second set of execution results"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat >> out2[K3
+ Memory Management Scheme - First Fit
+Enter the number of blocks:5
+Enter the number of files:4
+
+Enter the size of the blocks:-
+Block 1:6
+Block 2:5
+Block 3:4
+Block 4:3
+Block 5:2
+Enter the size of the files :-
+File 1:2
+File 2:3
+File 3:1
+File 4:4
+
+File_no:        File_size :     Block_no:       Block_size:     Fragement
+1               2               1               6               4
+2               3               2               5               2
+3               1               3               4               3
+4               4               0               2432            -2^Z
+[3]+  Stopped                 cat >> out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ cat >> out3git commit -m"Second set of execution results"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -m"Thirs[Kd set of exe cution results"
+[master bc47b85] Third set of execution results
+ 1 file changed, 20 insertions(+)
+ create mode 100644 OSLAB/Exp6/Worstfitout/out3
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -m"Third set of execution results"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat >> out3[K4
+
+        Memory Management Scheme - First Fit
+Enter the number of blocks:5
+Enter the number of files:2
+
+Enter the size of the blocks:-
+Block 1:1
+Block 2:3
+Block 3:1
+Block 4:1
+Block 5:1
+Enter the size of the files :-
+File 1:3
+File 2:2
+
+File_no:        File_size :     Block_no:       Block_size:     Fragement
+1               3               2               3               0
+2               2               0               2432            -1^Z
+[4]+  Stopped                 cat >> out4
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git add .
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -m"Fu[Koutr[K[Krth set of ex ecution results"
+[master a9d4318] Fourth set of execution results
+ 1 file changed, 17 insertions(+)
+ create mode 100644 OSLAB/Exp6/Worstfitout/out4
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ cat >>out2
+^Z
+[5]+  Stopped                 cat >> out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ ls
+[0m[01;32mout1[0m  [01;32mout2[0m  [01;32mout3[0m  [01;32mout4[0m
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ cat >out2
+ Memory Management Scheme - First Fit
+Enter the number of blocks:1
+Enter the number of files:1
+
+Enter the size of the blocks:-
+Block 1:23
+Enter the size of the files :-
+File 1:23
+
+File_no:        File_size :     Block_no:       Block_size:     Fragement
+1               23              1               23              0
+^Z
+[6]+  Stopped                 cat > out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ nano out2
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 11 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out2                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2;2H[39;49m(B[mMemory Management Scheme - First Fit[3dEnter the number of blocks:1[4dEnter the number of files:1[6dEnter the size of the blocks:-[7dBlock 1:23[8dEnter the size of the files :-[9dFile 1:23[11dFile_no:[11;17HFile_size :     Block_no:[49GBlock_size:     Fragement[12d1[12;17H23[12;33H1[12;49H23[12;65H0[2d[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[7]+  Stopped                 nano out2
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ cat >> out5
+Memory Management Scheme - First Fit
+Enter the number of blocks:3
+Enter the number of files:2
+
+Enter the size of the blocks:-
+Block 1:5
+Block 2:2
+Block 3:7
+Enter the size of the files :-
+File 1:1
+File 2:4
+
+File_no:        File_size :     Block_no:       Block_size:     Fragement
+1               1               1               5               4
+2               4               3               7               3^Z
+[8]+  Stopped                 cat >> out5
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git add .
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -m"Third sert[K[Kt of exe cution results"
+[master 0e68bc8] Third set of execution results
+ 3 files changed, 25 insertions(+), 16 deletions(-)
+ create mode 100644 OSLAB/Exp6/Worstfitout/.out2.swp
+ rewrite OSLAB/Exp6/Worstfitout/out2 (66%)
+ create mode 100644 OSLAB/Exp6/Worstfitout/out5
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ gti commit -m"Previoo[Kus commit  is wrong so ,hh[Ker [K[Ke[Kre i am a[Kcommitin g[K[Kg it ad[Kgain thta[K[Kat s[Kis, fit[Kfth set of execution s[Kresults"
+
+Command 'gti' not found, did you mean:
+
+  command 'gli' from deb ruby-gli (2.14.0-1)
+  command 'gt' from deb genometools (1.6.1+ds-2)
+  command 'ti' from deb ticgit (1.0.2.17-2.1)
+  command 'ghi' from deb ghi (1.2.0-1)
+  command 'git' from deb git (1:2.25.1-1ubuntu3.6)
+  command 'gtv' from deb smpeg-gtv (0.4.5+cvs20030824-8build1)
+  command 'gtf' from deb xserver-xorg-core (2:1.20.13-1ubuntu1~20.04.4)
+  command 'gmi' from deb gmailieer (0.10-1)
+  command 'gt5' from deb gt5 (1.5.0~20111220+bzr29-3)
+  command 'gth' from deb genomethreader (1.7.3+dfsg-5)
+  command 'bti' from deb bti (034-4build1)
+  command 'gsi' from deb gambc (4.8.8-3.1)
+
+Try: sudo apt install <deb name>
+
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ gti commit -m"Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C commit -m"Previous commit is[1P[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[Cit commit -m"Previous commit i[1@s[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C
+
+On branch master
+Your branch is ahead of 'origin/master' by 8 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   ../../Exp4/DeadLockAvoidance.c[m
+	[31mmodified:   ../../Exp5/a.out[m
+	[31mmodified:   ../../Exp5/mvtscript[m
+	[31mmodified:   ../Worstfit.c[m
+	[31mmodified:   ../date[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m../../Exp5/MfT.c.save[m
+	[31m../../Exp5/MfT.c.save.1[m
+	[31m../a.out[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -m"Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m"Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"Previous commit is[1P[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[Ca"Previous commit i[1@s[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C
+
+error: unknown switch `P'
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup <commit>      use autosquash formatted message to fixup specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    -s, --signoff         add Signed-off-by:
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <mode>      how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --ahead-behind        compute full ahead/behind values
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ rm [K[K[Kcat >>out5
+
+
+^Z
+[9]+  Stopped                 cat >> out5
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ cat >>out5git commit -a"Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[Cm
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [Cti
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [Cit commit -m"Third set of execution results"[K[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git add .cat >>out5git commit -a"Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results"
+error: unknown switch `P'
+usage: git commit [<options>] [--] <pathspec>...
+
+    -q, --quiet           suppress summary after successful commit
+    -v, --verbose         show diff in commit message template
+
+Commit message options
+    -F, --file <file>     read message from file
+    --author <author>     override author for commit
+    --date <date>         override date for commit
+    -m, --message <message>
+                          commit message
+    -c, --reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --reuse-message <commit>
+                          reuse message from specified commit
+    --fixup <commit>      use autosquash formatted message to fixup specified commit
+    --squash <commit>     use autosquash formatted message to squash specified commit
+    --reset-author        the commit is authored by me now (used with -C/-c/--amend)
+    -s, --signoff         add Signed-off-by:
+    -t, --template <file>
+                          use specified template file
+    -e, --edit            force edit of commit
+    --cleanup <mode>      how to strip spaces and #comments from message
+    --status              include status in commit message template
+    -S, --gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --all             commit all changed files
+    -i, --include         add specified files to index for commit
+    --interactive         interactively add files
+    -p, --patch           interactively add changes
+    -o, --only            commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --dry-run             show what would be committed
+    --short               show status concisely
+    --branch              show branch information
+    --ahead-behind        compute full ahead/behind values
+    --porcelain           machine-readable output
+    --long                show status in long format (default)
+    -z, --null            terminate entries with NUL
+    --amend               amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    -u, --untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ git commit -a"Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results"[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[Cadd .[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccommit -a"Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"Previous commit is[1P[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[Cm"Previous commit i[1@s[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[master a1dcbbe] Previous commit is wrong so ,here i am commiting it again that is, fifth set of execution results
+ 1 file changed, 2 insertions(+)
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ nano out5
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;54H(B[0;7m[ Reading... ](B[m[28;52H(B[0;7m[ Read 16 lines ](B[m[H(B[0;7m  GNU nano 4.8                                              out5                                                        [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[mMemory Management Scheme - First Fit[3dEnter the number of blocks:3[4dEnter the number of files:2[6dEnter the size of the blocks:-[7dBlock 1:5[8dBlock 2:2[9dBlock 3:7[10dEnter the size of the files :-[11dFile 1:1[12dFile 2:4[14dFile_no:[14;17HFile_size :     Block_no:[49GBlock_size:     Fragement[15d1[15;17H1[15;33H1[15;49H5[15;65H4[2d[?12l[?25h[?25l[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>[?2004l
+
+Use "fg" to return to nano.
+
+[10]+  Stopped                 nano out5
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Worstfitout[00m$ cd ..
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cat[K[K[Knano De[K[K Bestfit.c
+[?2004h[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;55H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 4.8                                           Bestfit.c                                                      [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Paste Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[2d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified[28d(B[m[K[1;119H[2d(B[0;1m[34m/* Name Of the Candidate: S. Mastan Vali[3d   Roll No:  204G1A0555[4d   Title of the Experiment: stimulating Dining-philosophers problem[5d   Date of Creation: 17-10-2022[6d   Date of Execution: 17-10-2022[7d*/[39m(B[m[?12l[?25h[?25l[A[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[1P[?12l[?25h[?25l(B[0;1m[34m27-10-2022[6;24H[39m(B[m[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l[C[?12l[?25h[?25l(B[0;1m[34m-2022[39m(B[m[K[27G[?12l[?25h[?25l(B[0;1m[34m11-2022[28G[39m(B[m[?12l[?25h[?25l[A[?12l[?25h[?25l[?12l[?25h[?25l(B[0;1m[34m-2022[39m(B[m[K[26G[?12l[?25h[?25l(B[0;1m[34m11-2022[27G[39m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[C[?12l[?25h[?25l[1P[?12l[?25h[?25l(B[0;1m[34m27-11-2022[5;23H[39m(B[m[?12l[?25h[?25l[A[?12l[?25h[?25l[A[?12l[?25h[?25l[4d[?12l[?25h[?25l[C[?12l[?25h[?25l[4;68H[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[42m [49m(B[m[K[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[42m [49m(B[m[K[?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l [?12l[?25h[?25l[42m [49m(B[m[K[?12l[?25h[?25l(B[0;1m[34m To stimulate the following contiguous memory allocation techniques.[39m(B[m[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l

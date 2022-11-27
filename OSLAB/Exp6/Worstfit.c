@@ -11,8 +11,8 @@
 void main()
 {
 int
-frag[max],b[max],f[max],i,j,nb,nf,t
-emp; static int bf[max],ff[max];
+frag[max],b[max],f[max],i,j,nb,nf,temp; 
+static int bf[max],ff[max];
 //clrscr();
 printf("\n\tMemory Management Scheme - First Fit");
 printf("\nEnter the number of blocks:");
