@@ -32,4 +32,39 @@ Script started, file is date2
 ]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ sudo suapt-get update[7Psudo su[Ksudo suapt-get update[7Psudo su[Ksudo su[Kcd B[KFI[Kis[Krstfirout
 bash: cd: Firstfirout: No such file or directory
 ]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6[00m$ cd Firstfirout[C[C[1Pouttout
-]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ g
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ gti c[K[K[K[K[Kcd Firstfitoutrout[7Psudo suapt-get update[4@run [C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt install gcc[K netstat -tulpn | grep 8000[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ [C[C[C[C[C[8Pfuser -k 8000/tcp
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc[Kcd /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp5[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ gcc[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo fuser -k 8000/tcpnetstat -tulpn | grep 8000[A]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ [C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C apt install gcc[2Prun apt-get update[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Psudo sucd Firstfirouttout[Kgit co[K[Kadd .
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ git commit -m"Created a direct or[Ky[K[Kory to sc[Ktore outputf[K i[Kfiles of Firstfit.c Prof[Kgram"
+[master 62f2b8c] Created a directory to store output files of Firstfit.c Program
+ 1 file changed, 35 insertions(+)
+ create mode 100644 OSLAB/Exp6/Firstfitout/exit
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ cat >> out1
+Enter no. of blocks: 5
+
+Enter size of each block: 1
+2
+2
+1
+0
+
+Enter no. of processes: 3
+
+Enter size of each process: 0
+0
+1
+
+Block no.       size            process no.             size
+1               1               1                       0
+2               2               2                       0
+3               2               3                       1
+4               1               Not allocated
+5               0               Not allocated
+
+___________________________________________________________________
+		B by MASAN    TAN VALI SANJAML L ALA
+^[[1;2A^[[B           ___________________________________________________________________
+                by MASTAN VALI SANJAMALA \                                        ^Z
+[1]+  Stopped                 cat >> out1
+]0;mastanvalisanjamala@MASTANVALISANJAMALA: /mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[01;32mmastanvalisanjamala@MASTANVALISANJAMALA[00m:[01;34m/mnt/d/204G1A0555/CNOSLAB/OSLAB/Exp6/Firstfitout[00m$ GIT ADD[K[K[K[K[K[K[K
