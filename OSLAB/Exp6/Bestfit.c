@@ -18,10 +18,10 @@ scanf("%d",&nb);
 printf("Enter the number of files:");
 scanf("%d",&nf);
 printf("\nEnter the size of the blocks:-\n");
-for(i=1;i<=nb;i++)
+for(i=1;i<=nb;i++){
 printf("Block %d:",i);
 scanf("%d",&b[i]);
-printf("Enter the size of the files :-\n");
+}printf("Enter the size of the files :-\n");
 for(i=1;i<=nf;i++)
 {
 printf("File %d:",i);
