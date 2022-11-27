@@ -1,0 +1,25 @@
+___________________________________________________________________
+                by MASTAN VALI SANJAMALA
+___________________________________________________________________
+Enter no. of blocks: 5
+
+Enter size of each block: 1
+2
+3
+4
+5
+
+Enter no. of processes: 5
+
+Enter size of each process: 2
+1
+1
+1
+1
+
+Block no.       size            process no.             size
+1               1               2                       1
+2               2               1                       2
+3               3               3                       1
+4               4               4                       1
+5               5               5                       1
